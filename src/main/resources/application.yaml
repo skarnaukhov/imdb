@@ -1,0 +1,7 @@
+imdb:
+  concurrency:
+    keyValueConcurrencyLevel: 32
+    keyListConcurrencyLevel: 32
+    listsLocksInitialCount: 2
+server:
+  port : 3000
